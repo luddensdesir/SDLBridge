@@ -1,0 +1,35 @@
+# Third-party vendored libraries
+SDL-SDL2/
+libwebsockets-main/
+
+# Build output
+build/
+out/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.opendb
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+cmake_install.cmake
+Makefile
+*.cmake
+
+# Windows
+desktop.ini
+Thumbs.db
+
+# Nested empty repo
+SDLBridge/
